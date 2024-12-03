@@ -1,6 +1,11 @@
 # Karma-Python-Automation
 
-**Update Feature:** Your provided list will be filtered automatically.
+**Major update on our tool**
+
+1. It will automatically filter your cPanel list.
+2. It doesn't use any API so it will always work perfectly.
+3. Works super fast and accurately.
+4. It provides accurate shell result.
 
 Usage: **python3 interface.py**
 
